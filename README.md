@@ -29,8 +29,6 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyon98&layout=compact&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782"
-           />
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongyon98)](https://solved.ac/seongyon98/)
-    </div> 
+           /> </div> 
     </div>
     
