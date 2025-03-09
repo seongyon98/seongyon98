@@ -12,33 +12,33 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 
-    <h3> 📌 Programming & Frameworks </h3>
-    <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-    </div>
+<h3 align="center">📌 Programming & Frameworks</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
+</p>
 
-    <h3> ☁ Cloud & DevOps </h3>
-    <div align="center">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-    </div>
+<h3 align="center">☁ Cloud & DevOps</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+</p>
 
-    <h3> 🗄️ Database </h3>
-    <div align="center">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-    </div>
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+</p>
 
-    <h3> 🛠 Tools </h3>
-    <div align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-        <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
-    </div>
+<h3 align="center">🛠 Tools</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
+</p>
 </div>
 
 <div style="text-align: left;">
@@ -57,18 +57,23 @@
 </div>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyon98&layout=compact&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782" />
-    </div> 
-    <br>
-    <h3 align="center">🏅 Algorithm</h3>
-    <div align="center">
-        <a href="https://solved.ac/seongyon98/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongyon98" />
-        </a>
-    </div>
-    <br>
-    <h3 align="center">🏅 PCCE Lv2 731점</h3>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyon98&layout=compact&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782" />
+</div>
+
+---
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Achievements </h2>
+
+<h3 align="center">🏅 Algorithm Gold Level</h3>
+<p align="center">
+    <a href="https://solved.ac/seongyon98/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongyon98" />
+    </a>
+</p>
+
+<h3 align="center">🏅 PCCE Lv2 731점</h3>
+
 </div>
