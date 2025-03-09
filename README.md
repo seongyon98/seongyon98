@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aeb7bc,100:6c7b9d&height=120&text=Hi%20there!%20I'm%20seongyon98&animation=&fontColor=485060&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aeb7bc,100:6c7b9d&height=120&text=Hi%20there!%20I'm%20Seungyeon&animation=&fontColor=485060&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 배움에서 즐거움을 찾는 seungyeon입니다. </h2>  
@@ -29,7 +29,7 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&custom_title=seongyon98's Github Stat&bg_color=60,ecf0fe,9fb2fe&title_color=63708c&text_color=63708c"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&custom_title=Seungyeon's Github Stat&bg_color=60,ecf0fe,9fb2fe&title_color=63708c&text_color=63708c"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyon98&layout=compact&bg_color=60,ecf0fe,9fb2fe&title_color=63708c&text_color=63708c"
           /> </div> 
     </div>
