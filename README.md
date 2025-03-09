@@ -1,25 +1,23 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aeb7bc,100:6c7b9d&height=120&text=Hi%20there!%20I'm%20Seungyeon&animation=&fontColor=485060&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6dbff,100:687afd&height=180&text=Hi%20there!%20I'm%20Seungyeon&animation=&fontColor=42455c&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 배움에서 즐거움을 찾는 seungyeon입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 새로운 지식은 항상 저를 즐겁게 합니다. 🔎</li></li><li> 실패해도 다시 시도하고 그 과정에서 깨달으며 성장하고 있습니다. 🤓</li></li><li> 이를 통해 매일 한 걸음 나아가는 개발자가 되고 싶습니다. 👩🏻‍💻 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 배움에서 즐거움을 찾는 Seungyeon입니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 새로운 지식은 항상 저를 즐겁게 합니다. 🔎</li><li> 실패해도 다시 시도하고 그 과정에서 깨달으며 성장하고 있습니다. 🤓</li><li> 이를 통해 매일 한 걸음 나아가는 개발자가 되고 싶습니다. 👩🏻‍💻 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          </div>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+          <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
+          <br/></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -29,8 +27,8 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&custom_title=Seungyeon's Github Stat&bg_color=60,ecf0fe,9fb2fe&title_color=63708c&text_color=63708c"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyon98&layout=compact&bg_color=60,ecf0fe,9fb2fe&title_color=63708c&text_color=63708c"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seongyon98&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyon98&layout=compact&bg_color=60,ebecff,8b98fe&title_color=646782&text_color=646782"
+           /> </div> 
     </div>
     
