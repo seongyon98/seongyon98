@@ -2,22 +2,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6dbff,100:687afd&height=180&text=Hi%20there!%20I'm%20Seungyeon&animation=&fontColor=42455c&fontSize=50" />
 </div>
 
-<table>
-  <tr>
-    <td width="180px">
-      <img src="프로필_사진_URL" width="180px" style="border-radius: 50%;">
-    </td>
-    <td>
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요! 배움에서 즐거움을 찾는 Seungyeon입니다.</h2>  
-      <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 배움에서 즐거움을 찾는 Seungyeon입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <li> 새로운 지식은 항상 저를 즐겁게 합니다. 🔎</li>
         <li> 실패해도 다시 시도하고 그 과정에서 깨달으며 성장하고 있습니다. 🤓</li>
         <li> 이를 통해 매일 한 걸음 나아가는 개발자가 되고 싶습니다. 👩🏻‍💻</li>
-      </div>
-    </td>
-  </tr>
-</table>
-
+    </div> 
+</div>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
